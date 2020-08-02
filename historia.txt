@@ -1,4 +1,8 @@
 Esta es una prueba 
 
-Otra cambio sobre este archivo y uno adicional para hacerlo más interesante
+Otra cambio sobre este archivo y uno adicional para hacerlo más interesante.
+
+esta es la hitoria de Adriana, ella tiene 27 años y está aprendiendo sobre programación.
+
+Adriana trabaja como product manager en Quick
 
