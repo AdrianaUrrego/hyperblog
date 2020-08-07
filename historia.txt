@@ -2,6 +2,4 @@ Esta es una historia
 
 Adriana tiene 27 años y está tratando de aprender sobre git y github
 
-experimento 1
-
-experimento 2
+master 1
