@@ -6,6 +6,12 @@ esta es la hitoria de Adriana, ella tiene 27 años y está aprendiendo sobre pro
 
 Adriana trabaja como product manager en Quick
 
+Experimento 1
+
 Master 1
 
+<<<<<<< HEAD
 Master 2
+=======
+
+>>>>>>> ccb4262... Experimento 1
